@@ -1,1 +1,1 @@
-Collection of data science project files - EDA, classificationp/rediction models
+Collection of data science project files - EDA, classification/prediction models
